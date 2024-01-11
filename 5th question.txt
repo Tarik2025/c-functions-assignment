@@ -1,0 +1,6 @@
+The minimum number of functions present in any C++ program is:
+0
+1
+2
+Infinite
+"Answers is 1 , because atleast main() function should present in any c++ program
